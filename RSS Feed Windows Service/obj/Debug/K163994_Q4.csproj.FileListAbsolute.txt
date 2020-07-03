@@ -1,0 +1,8 @@
+C:\Users\Akshay Kumar\source\repos\K163994_Q4\K163994_Q4\bin\Debug\K163994_Q4.exe.config
+C:\Users\Akshay Kumar\source\repos\K163994_Q4\K163994_Q4\bin\Debug\K163994_Q4.exe
+C:\Users\Akshay Kumar\source\repos\K163994_Q4\K163994_Q4\bin\Debug\K163994_Q4.pdb
+C:\Users\Akshay Kumar\source\repos\K163994_Q4\K163994_Q4\obj\Debug\K163994_Q4.ProjectInstaller.resources
+C:\Users\Akshay Kumar\source\repos\K163994_Q4\K163994_Q4\obj\Debug\K163994_Q4.csproj.GenerateResource.cache
+C:\Users\Akshay Kumar\source\repos\K163994_Q4\K163994_Q4\obj\Debug\K163994_Q4.csproj.CoreCompileInputs.cache
+C:\Users\Akshay Kumar\source\repos\K163994_Q4\K163994_Q4\obj\Debug\K163994_Q4.exe
+C:\Users\Akshay Kumar\source\repos\K163994_Q4\K163994_Q4\obj\Debug\K163994_Q4.pdb
